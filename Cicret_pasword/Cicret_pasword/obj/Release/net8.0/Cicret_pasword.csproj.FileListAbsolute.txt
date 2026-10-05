@@ -1,0 +1,14 @@
+C:\Users\Sereag_RoofMiOn\source\repos\Cicret_pasword\Cicret_pasword\bin\Release\net8.0\Cicret_pasword.exe
+C:\Users\Sereag_RoofMiOn\source\repos\Cicret_pasword\Cicret_pasword\bin\Release\net8.0\Cicret_pasword.deps.json
+C:\Users\Sereag_RoofMiOn\source\repos\Cicret_pasword\Cicret_pasword\bin\Release\net8.0\Cicret_pasword.runtimeconfig.json
+C:\Users\Sereag_RoofMiOn\source\repos\Cicret_pasword\Cicret_pasword\bin\Release\net8.0\Cicret_pasword.dll
+C:\Users\Sereag_RoofMiOn\source\repos\Cicret_pasword\Cicret_pasword\bin\Release\net8.0\Cicret_pasword.pdb
+C:\Users\Sereag_RoofMiOn\source\repos\Cicret_pasword\Cicret_pasword\obj\Release\net8.0\Cicret_pasword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sereag_RoofMiOn\source\repos\Cicret_pasword\Cicret_pasword\obj\Release\net8.0\Cicret_pasword.AssemblyInfoInputs.cache
+C:\Users\Sereag_RoofMiOn\source\repos\Cicret_pasword\Cicret_pasword\obj\Release\net8.0\Cicret_pasword.AssemblyInfo.cs
+C:\Users\Sereag_RoofMiOn\source\repos\Cicret_pasword\Cicret_pasword\obj\Release\net8.0\Cicret_pasword.csproj.CoreCompileInputs.cache
+C:\Users\Sereag_RoofMiOn\source\repos\Cicret_pasword\Cicret_pasword\obj\Release\net8.0\Cicret_pasword.dll
+C:\Users\Sereag_RoofMiOn\source\repos\Cicret_pasword\Cicret_pasword\obj\Release\net8.0\refint\Cicret_pasword.dll
+C:\Users\Sereag_RoofMiOn\source\repos\Cicret_pasword\Cicret_pasword\obj\Release\net8.0\Cicret_pasword.pdb
+C:\Users\Sereag_RoofMiOn\source\repos\Cicret_pasword\Cicret_pasword\obj\Release\net8.0\Cicret_pasword.genruntimeconfig.cache
+C:\Users\Sereag_RoofMiOn\source\repos\Cicret_pasword\Cicret_pasword\obj\Release\net8.0\ref\Cicret_pasword.dll
